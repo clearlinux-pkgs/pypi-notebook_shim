@@ -1,0 +1,2 @@
+mkdir -p %{buildroot}/usr/share/jupyter
+mv %{buildroot}/usr/etc/  %{buildroot}/usr/share/
