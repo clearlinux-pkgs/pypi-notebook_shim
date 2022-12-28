@@ -1,5 +1,5 @@
 PKG_NAME := pypi-notebook_shim
-URL = https://files.pythonhosted.org/packages/80/14/215050c5ee184bd60e7d1e9e7e68d09c4dcacb18d3fb49c1fff4e061b94f/notebook_shim-0.1.0.tar.gz
+URL = https://files.pythonhosted.org/packages/98/29/3b1be2556ebb55053ffc2d2cac7bf2d611827a2cf23e1f34acc1c811d23f/notebook_shim-0.2.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
