@@ -4,7 +4,7 @@
 #
 Name     : pypi-notebook_shim
 Version  : 0.2.2
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/98/29/3b1be2556ebb55053ffc2d2cac7bf2d611827a2cf23e1f34acc1c811d23f/notebook_shim-0.2.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/98/29/3b1be2556ebb55053ffc2d2cac7bf2d611827a2cf23e1f34acc1c811d23f/notebook_shim-0.2.2.tar.gz
 Summary  : A shim layer for notebook traits and config
